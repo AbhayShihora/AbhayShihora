@@ -83,6 +83,7 @@ A Flask-based authentication system designed with secure user registration, logi
 **Tech:** Python • Flask • Flask-SQLAlchemy • MySQL • Flask-WTF • Bcrypt
 
 🔗 [GitHub Repository](https://github.com/AbhayShihora/SecureAuth-Pro)
+🌐 [Live Demo](https://secureauth-pro-mzyz.onrender.com/)
 
 ---
 
@@ -94,6 +95,7 @@ A web-based productivity platform combining multiple student-focused tools in on
 
 **Tech:** HTML • CSS • JavaScript • LocalStorage
 
+🔗 [GitHub Repository](https://github.com/AbhayShihora/Student-Productivity-Suite)
 🌐 [Live Project](https://abhayshihora.github.io/Student-Productivity-Suite/Home.html)
 
 ---
@@ -169,7 +171,7 @@ AI-powered Applications
   <a href="https://github.com/AbhayShihora">
     <img src="https://img.shields.io/badge/GitHub-AbhayShihora-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/abhayshihora">
     <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Shihora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
