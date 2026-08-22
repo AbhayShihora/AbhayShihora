@@ -1,117 +1,160 @@
-# Hi, I'm Abhay Shihora 👋
+# 👋 Hi, I'm Abhay Shihora
 
-**MCA Student | Software Developer | Backend Development Enthusiast**
+### 💻 Software Developer | MCA Student | Backend Development Enthusiast
 
-I am currently pursuing my **Master of Computer Applications (MCA)** and developing practical applications with a focus on **backend development, databases, REST APIs, authentication, and AI-powered solutions**.
+I'm currently pursuing my **Master of Computer Applications (MCA)** and building practical software projects focused on **backend development, databases, APIs, and AI-powered applications**.
 
-I enjoy solving programming problems, learning new technologies, and turning ideas into reliable software applications.
-
----
-
-## About Me
-
-* 🎓 Master of Computer Applications (MCA)
-* 💻 Focused on Software & Backend Development
-* 🐍 Currently working with Python and Flask
-* 🗄️ Interested in Database Design and Development
-* 🔌 Learning REST API Development
-* 🤖 Exploring AI and Machine Learning
-* 🔐 Interested in Authentication and Secure Applications
-* 🚀 Building and deploying real-world projects
+I enjoy turning ideas into functional applications and continuously improving my problem-solving and development skills.
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-**Languages**
-
-`C` `C#` `Python` `JavaScript` `PHP` `SQL`
-
-**Backend & Web**
-
-`Flask` `ASP.NET` `REST APIs` `HTML` `CSS`
-
-**Databases**
-
-`MySQL` `SQL Server` `SQLite`
-
-**Tools**
-
-`Git` `GitHub` `Figma` `Flutter`
+* 🎓 Pursuing **Master of Computer Applications (MCA)**
+* 💻 Interested in **Software & Backend Development**
+* 🐍 Currently working with **Python & Flask**
+* 🗄️ Interested in **Database-driven applications**
+* 🤖 Exploring **AI-powered applications**
+* 🔐 Building applications involving **authentication, APIs & security**
+* 🌱 Continuously learning and improving my development skills
+* 📌 Open to opportunities to learn, collaborate and build meaningful projects
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### DocChat AI — Intelligent PDF Assistant
+### 👨‍💻 Programming Languages
 
-AI-powered PDF assistant that allows users to upload documents, generate summaries, and interact with their PDF content.
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Technologies:** Python, Flask, PyPDF2, Google Gemini, OCR
+### 🌐 Web & Backend
 
-* PDF text extraction and summarization
-* AI-powered question answering
-* Summary download functionality
-* OCR support for scanned documents
-* Deployed using Render
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-[Repository](https://github.com/AbhayShihora/DocChat-AI) · [Live Demo](https://docchat-ai-y2rp.onrender.com/)
+### 🗄️ Databases
 
----
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-### SecureAuth Pro — Authentication & User Management
+### 🔧 Tools & Technologies
 
-A Flask-based authentication and user management system with database integration and secure password handling.
-
-**Technologies:** Python, Flask, Flask-SQLAlchemy, MySQL, Flask-WTF, Bcrypt
-
-* User registration and login
-* Form validation
-* Password hashing
-* Email verification
-* Database integration
-* Authentication management
-
-[Repository](https://github.com/AbhayShihora/SecureAuth-Pro)
-
----
-
-### Student Productivity Suite
-
-A browser-based productivity application designed to provide multiple useful student tools in one platform.
-
-**Features:** Notes, Quiz, To-Do, Timetable, Pomodoro Timer, Flashcards
-
-**Technologies:** HTML, CSS, JavaScript, LocalStorage
-
-[Live Project](https://abhayshihora.github.io/Student-Productivity-Suite/Home.html)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
 ---
 
-### Weather Dashboard
+## 🔥 Featured Projects
 
-A web application that retrieves weather information through an external API and presents it through a simple dashboard.
+### 🤖 DocChat AI — Intelligent PDF Assistant
 
-**Technologies:** HTML, CSS, JavaScript, REST API
+An AI-powered PDF assistant that allows users to upload documents, generate summaries and interact with PDF content.
 
-[Repository](https://github.com/AbhayShihora/Weather-Dashboard)
+**Tech:** Python • Flask • PyPDF2 • Google Gemini • OCR
 
----
-
-### GNews Live Dashboard
-
-A news application that retrieves and displays current news articles using the GNews API.
-
-**Technologies:** HTML, CSS, JavaScript, REST API
-
-[Repository](https://github.com/AbhayShihora/GNews-Live-Dashboard)
+🔗 [GitHub Repository](https://github.com/AbhayShihora/DocChat-AI)
+🌐 [Live Demo](https://docchat-ai-y2rp.onrender.com/)
 
 ---
 
-## Currently Learning
+### 🔐 SecureAuth Pro — Authentication & User Management System
 
-* Python & Advanced Python
-* Flask Backend Development
+A Flask-based authentication system designed with secure user registration, login, validation, password hashing, email verification and database integration.
+
+**Tech:** Python • Flask • Flask-SQLAlchemy • MySQL • Flask-WTF • Bcrypt
+
+🔗 [GitHub Repository](https://github.com/AbhayShihora/SecureAuth-Pro)
+
+---
+
+### 📚 Student Productivity Suite
+
+A web-based productivity platform combining multiple student-focused tools in one application.
+
+**Features:** Notes • Quiz • To-Do • Timetable • Pomodoro Timer • Flashcards
+
+**Tech:** HTML • CSS • JavaScript • LocalStorage
+
+🌐 [Live Project](https://abhayshihora.github.io/Student-Productivity-Suite/Home.html)
+
+---
+
+### 🌦️ Weather Dashboard
+
+A web application that retrieves and displays weather information using an external weather API.
+
+**Tech:** HTML • CSS • JavaScript • REST API
+
+🔗 [GitHub Repository](https://github.com/AbhayShihora/Weather-Dashboard)
+
+---
+
+### 📰 GNews Live Dashboard
+
+A news application that fetches and displays live news articles using the GNews API.
+
+**Tech:** HTML • CSS • JavaScript • REST API
+
+🔗 [GitHub Repository](https://github.com/AbhayShihora/GNews-Live-Dashboard)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayShihora&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayShihora&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhayShihora&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Development
+        ↓
+Python + Flask
+        ↓
+REST APIs + Databases
+        ↓
+Authentication & Security
+        ↓
+AI-powered Applications
+```
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Python
+* Flask & Backend Architecture
 * REST API Development
 * Database Design
 * Data Structures & Algorithms
@@ -120,42 +163,19 @@ A news application that retrieves and displays current news articles using the G
 
 ---
 
-## Development Focus
+## 🤝 Connect With Me
 
-```text
-Problem Solving
-      ↓
-Programming
-      ↓
-Backend Development
-      ↓
-REST APIs
-      ↓
-Databases
-      ↓
-Secure & Scalable Applications
-      ↓
-AI-powered Solutions
-```
+<p>
+  <a href="https://github.com/AbhayShihora">
+    <img src="https://img.shields.io/badge/GitHub-AbhayShihora-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Shihora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## GitHub Activity
+### 💡 "Build. Learn. Improve. Repeat."
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhayShihora\&show_icons=true\&hide_border=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayShihora\&layout=compact\&hide_border=true\&theme=default)
-
----
-
-## Connect With Me
-
-**GitHub:**
-https://github.com/AbhayShihora
-
-**LinkedIn:**
-YOUR_LINKEDIN_URL
-
----
-
-> Build. Learn. Improve. Repeat. 🚀
+⭐ Thanks for visiting my profile!
