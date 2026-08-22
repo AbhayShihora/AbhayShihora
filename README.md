@@ -123,10 +123,6 @@ A news application that fetches and displays live news articles using the GNews 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayShihora&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayShihora&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-<p align="center">
   <img src="./profile/stats.svg" width="48%" />
   <img src="./profile/top-langs.svg" width="48%" />
 </p>
